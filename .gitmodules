@@ -1,0 +1,3 @@
+[submodule "Duplo"]
+	path = Duplo
+	url = https://github.com/FalseCAM/Duplo.git
